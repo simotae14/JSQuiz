@@ -8,6 +8,12 @@ Syntax of a switch case instruction
 
 - [switch](https://github.com/simotae14/JSQuiz/tree/master/01_switch)
 
+## 2. This
+
+Understanding the this, inside an object method or not.
+
+- [this_tricky_question](https://github.com/simotae14/JSQuiz/tree/master/02_il_this)
+
 ## 1. Execution order in a script
 
 Exploring the Execution Context Stack, the Callback Queue in Asynchronous instructions.
