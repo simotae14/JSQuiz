@@ -20,6 +20,12 @@ Understanding the callbacks, their nestings and how to implement the different c
 
 - [callback_tricky_question](https://github.com/simotae14/JSQuiz/tree/master/03_callbacks)
 
+## 04. Types and Type Coercion
+
+Understanding the Types in JS and the Type Coercion.
+
+- [types_tricky_question](https://github.com/simotae14/JSQuiz/tree/master/04_types)
+
 ## 1. Execution order in a script
 
 Exploring the Execution Context Stack, the Callback Queue in Asynchronous instructions.
