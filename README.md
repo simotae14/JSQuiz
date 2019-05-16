@@ -32,6 +32,18 @@ Understanding the Scope and Hoisting in JS.
 
 - [scope_and_hoisting_tricky_question](https://github.com/simotae14/JSQuiz/tree/master/05_scope_e_hoisting)
 
+## 06. Objects clones
+
+Understanding the Clones of the Object, with the Object.assign, the spread operator, JSOn.parse & JSON.stringify and the deep clone with Lodash.
+
+- [object_clones_tricky_question](https://github.com/simotae14/JSQuiz/tree/master/06_object_clones)
+
+## 07. Closures, Function Factories and High-Order Functions
+
+Understanding the use of Closure, Factories and High-Order Functions.
+
+- [closures_factories_high-order_functions_tricky_question](https://github.com/simotae14/JSQuiz/tree/master/07_question_closures_higher_order_functions_callbacks)
+
 ## 1. Execution order in a script
 
 Exploring the Execution Context Stack, the Callback Queue in Asynchronous instructions.
